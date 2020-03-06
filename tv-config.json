@@ -1,0 +1,13 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": true,
+  "autoStart": true,
+  "lazyLoadTabs": true,
+  "websites": [
+    {
+      "url": "https://grafana.sportradar.ag/d/a3hUG22Zk/sir-generic?orgId=1&var-PROMETHEUS=CS%20Prometheus&var-WEBSERVERPROJECT=sirwidgets&var-WEBSERVERROLE=widgets_web&var-TITLE=WIDGETS&var-Products=sirwidgets:widgets_web&kiosk",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 15
+    }
+  ]
+}
